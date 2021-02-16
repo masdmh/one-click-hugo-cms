@@ -1,7 +1,7 @@
 ---
 title: Bible in ten
 subtitle: Ten minutes in search of Christ Jesus
-image: img/bible-in-ten-animation.gif
+image: img/bible-in-10-cover-web.png
 blurb:
   heading: 10 minute bible reading podcast episodes
   text: >
