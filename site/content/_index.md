@@ -1,7 +1,7 @@
 ---
 title: Bible in ten
 subtitle: Ten minutes in search of Christ Jesus
-image: img/bible-in-10-cover-web2.png
+image: img/red-slate.jpg
 blurb:
   heading: 10 minute bible reading podcast episodes
   text: >
@@ -17,6 +17,9 @@ intro:
     comes from hearing the Good News. And people hear the Good News when someone
     tells them about Christ.  ICB
 products: []
+podcasts:
+  - text: Episode 1
+    image: img/bible-in-ten-animation.gif
 values:
   heading: " "
   text: " "
