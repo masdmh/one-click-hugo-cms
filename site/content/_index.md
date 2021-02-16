@@ -11,13 +11,11 @@ blurb:
     Word.  Follow us each as we broadcast bite size gems from this wonderful
     gift, in search of Christ Jesus.
 intro:
-  heading: '"Faith comes by hearing"'
+  heading: '"Faith comes by hearing..."'
   text: >
-    No one can have faith without hearing the message about Christ.  So faith
+    No one can have faith without hearing the message about Christ.  "So faith
     comes from hearing the Good News. And people hear the Good News when someone
-    tells them about Christ.  ICB
-products: []
-values:
-  heading: " "
-  text: " "
+    tells them about Christ", (Romans 10:17, ICB)
+podcast:
+
 ---
