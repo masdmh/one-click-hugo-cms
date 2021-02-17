@@ -20,12 +20,12 @@ podcast:
 
 
 image1:
-	alt: A close-up of a paper filter filled with ground coffee
-	image: /img/products-grid3.jpg
+	alt: In the beginning
+	image: /img/episode-1.jpg
 image2:
-	alt: A green cup of a coffee on a wooden table
-	image: /img/products-grid2.jpg
+	alt: From chaos to order
+	image: /img/episode-2.jpg
 image3:
-	alt: Coffee beans
-	image: /img/products-grid1.jpg
+	alt: All creatures great and small
+	image: /img/episode-3.jpg
 ---
