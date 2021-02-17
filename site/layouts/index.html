@@ -4,7 +4,7 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "image-grid" (.Params.image1 .Params.image2 .Params.image3 }}
+{{ partial "image-grid" (dict "image1" .Params.image1 "image2" .Params.image2 "image3" .Params.image3 }}
 
 
 {{ partial "podcast" . }}
