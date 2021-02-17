@@ -1,6 +1,6 @@
 ---
-title: Salvation in a nutshell
-image: img/android-chrome-192x192.png
+title: Eternal salvation
+image:  
 values:
   - heading: The problem
     text: >+
