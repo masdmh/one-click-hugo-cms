@@ -16,8 +16,6 @@ intro:
     No one can have faith without hearing the message about Christ.  "So faith
     comes from hearing the Good News. And people hear the Good News when someone
     tells them about Christ", (Romans 10:17, ICB)
-podcast:
-
 
 image1:
 	alt: In the beginning
