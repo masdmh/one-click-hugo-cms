@@ -17,13 +17,4 @@ intro:
     comes from hearing the Good News. And people hear the Good News when someone
     tells them about Christ", (Romans 10:17, ICB)
 
-image1:
-	alt: In the beginning
-	image: /img/episode-1.jpg
-image2:
-	alt: From chaos to order
-	image: /img/episode-2.jpg
-image3:
-	alt: All creatures great and small
-	image: /img/episode-3.jpg
 ---
